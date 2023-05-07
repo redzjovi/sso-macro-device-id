@@ -13,5 +13,10 @@
         "device_id": "C0F8147A-5176-478D-B268-B0923F52C94B",
         "description": "Erlina Huawei MateBook",
         "expired_at": "20240503"
-    }
+    },
+    {
+        "device_id": "4EB66A0A-1FFA-11EB-80E8-5405DBDFBA8F",
+        "description": "Clerine",
+        "expired_at": "20230607"
+    }   
 ]
