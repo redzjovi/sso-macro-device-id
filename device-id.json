@@ -18,5 +18,10 @@
         "device_id": "4EB66A0A-1FFA-11EB-80E8-5405DBDFBA8F",
         "description": "Clerine",
         "expired_at": "20230607"
-    }   
+    },
+    {
+        "device_id": "53C2B41A-A2B1-4E5C-B9AC-6A47D4C94DF4",
+        "description": "Lucifel2",
+        "expired_at": "20240507"
+    }
 ]
