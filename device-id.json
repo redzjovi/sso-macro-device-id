@@ -10,6 +10,11 @@
         "expired_at": "20240503"
     },
     {
+        "device_id": "2d6e254d-68e7-4f5d-aa2c-374f5ad3e10d",
+        "description": "Jovi Asus ExpertBook",
+        "expired_at": "20240503"
+    },
+    {
         "device_id": "16BEFDF6-DEA5-4D4A-8A05-F83E1D4D98A5",
         "description": "Jovi Asus VivoBook",
         "expired_at": "20240503"
