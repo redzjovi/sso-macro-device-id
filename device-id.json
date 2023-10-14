@@ -20,6 +20,11 @@
         "expired_at": "20240503"
     },
     {
+        "device_id": "8ad0cd5b-cba2-43b3-a5f3-5e5776146eaf",
+        "description": "Jovi Asus VivoBook",
+        "expired_at": "20240503"
+    },
+    {
         "device_id": "C0F8147A-5176-478D-B268-B0923F52C94B",
         "description": "Erlina Huawei MateBook",
         "expired_at": "20240503"
