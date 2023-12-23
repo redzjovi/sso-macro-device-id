@@ -48,5 +48,10 @@
         "device_id": "1C11C83F-BA83-9F41-B866-A81E84D4C3CC",
         "description": "Lucifel2",
         "expired_at": "20240507"
+    },
+    {
+        "device_id": "3f545277-b584-4c4a-be62-f7970af2e289",
+        "description": "bequiet",
+        "expired_at": "20241223"
     }
 ]
