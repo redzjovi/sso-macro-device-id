@@ -53,5 +53,10 @@
         "device_id": "3f545277-b584-4c4a-be62-f7970af2e289",
         "description": "bequiet",
         "expired_at": "20241223"
+    },
+    {
+        "device_id": "6e6d74fd-0cf4-4e18-b301-894f528aec4f",
+        "description": "bequiet pc",
+        "expired_at": "20241223"
     }
 ]
