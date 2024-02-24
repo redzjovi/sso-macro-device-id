@@ -25,6 +25,11 @@
         "expired_at": "20240503"
     },
     {
+        "device_id": "b62bd493-5e4b-43c1-a9e1-b80e82a42ce6",
+        "description": "Jovi Lenovo ThinkPad T490",
+        "expired_at": "20240503"
+    },
+    {
         "device_id": "C0F8147A-5176-478D-B268-B0923F52C94B",
         "description": "Erlina Huawei MateBook",
         "expired_at": "20240503"
