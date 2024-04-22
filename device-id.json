@@ -45,28 +45,13 @@
         "expired_at": "20240503"
     },
     {
-        "device_id": "4EB66A0A-1FFA-11EB-80E8-5405DBDFBA8F",
-        "description": "Clerine",
-        "expired_at": "20230607"
-    },
-    {
-        "device_id": "1C11C83F-BA83-9F41-B866-A81E84D4C3CC",
-        "description": "Lucifel2",
+        "device_id": "1fe8e56b-1756-434e-8ede-89b724c7a7c8",
+        "description": "Lucifel2 - 1",
         "expired_at": "20240507"
     },
     {
-        "device_id": "1fe8e56b-1756-434e-8ede-89b724c7a7c8",
+        "device_id": "66f9c6ca-7bf7-4201-a769-8b28e7c73061",
         "description": "Lucifel2 - 2",
         "expired_at": "20240507"
-    },
-    {
-        "device_id": "3f545277-b584-4c4a-be62-f7970af2e289",
-        "description": "bequiet",
-        "expired_at": "20241223"
-    },
-    {
-        "device_id": "6e6d74fd-0cf4-4e18-b301-894f528aec4f",
-        "description": "bequiet pc",
-        "expired_at": "20241223"
     }
 ]
