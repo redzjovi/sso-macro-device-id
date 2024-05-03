@@ -1,33 +1,18 @@
 [
     {
-        "device_id": "1B32AAAE-D1C5-804D-8975-0499DAB410A6",
-        "description": "Jovi Asus ExpertBook",
-        "expired_at": "20240503"
-    },
-    {
-        "device_id": "691c2bfcc1809709d57cf58972f8ef185f3a9730a78ad94db8ae029b741f70b8",
-        "description": "Jovi Asus ExpertBook",
-        "expired_at": "20240503"
-    },
-    {
         "device_id": "2d6e254d-68e7-4f5d-aa2c-374f5ad3e10d",
         "description": "Jovi Asus ExpertBook",
-        "expired_at": "20240503"
-    },
-    {
-        "device_id": "16BEFDF6-DEA5-4D4A-8A05-F83E1D4D98A5",
-        "description": "Jovi Asus VivoBook",
-        "expired_at": "20240503"
+        "expired_at": "20241231"
     },
     {
         "device_id": "8ad0cd5b-cba2-43b3-a5f3-5e5776146eaf",
         "description": "Jovi Asus VivoBook",
-        "expired_at": "20240503"
+        "expired_at": "20241231"
     },
     {
         "device_id": "b62bd493-5e4b-43c1-a9e1-b80e82a42ce6",
         "description": "Jovi Lenovo ThinkPad T490",
-        "expired_at": "20240503"
+        "expired_at": "20241231"
     },
     {
         "device_id": "C0F8147A-5176-478D-B268-B0923F52C94B",
