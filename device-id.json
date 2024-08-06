@@ -33,5 +33,10 @@
         "device_id": "66f9c6ca-7bf7-4201-a769-8b28e7c73061",
         "description": "Lucifel2 - 2",
         "expired_at": "20241231"
+    },
+    {
+        "device_id": "e863c4be-71bc-40b6-9800-cb4220fb4128",
+        "description": "Phum",
+        "expired_at": "20240813"
     }
 ]
