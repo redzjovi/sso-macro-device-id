@@ -38,5 +38,10 @@
         "device_id": "e863c4be-71bc-40b6-9800-cb4220fb4128",
         "description": "Phum",
         "expired_at": "20240813"
+    },
+    {
+        "device_id": "10723725-8b6e-4006-977c-402126d32ebd",
+        "description": "Phum VMware",
+        "expired_at": "20240831"
     }
 ]
