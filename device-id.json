@@ -20,6 +20,11 @@
         "expired_at": "20241231"
     },
     {
+        "device_id": "1f213703-523c-43b4-9110-17b53b98ca1e",
+        "description": "VirtualBox Windows 10 Atlas",
+        "expired_at": "20241231"
+    },
+    {
         "device_id": "0d18f808-d1e0-476f-b9bd-552582adc98e",
         "description": "Erlina Huawei MateBook",
         "expired_at": "20241231"
