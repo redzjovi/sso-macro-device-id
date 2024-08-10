@@ -10,6 +10,11 @@
         "expired_at": "20241231"
     },
     {
+        "device_id": "98c2e173-0d36-4ade-ae0e-12428c9f055f",
+        "description": "Jovi Asus VivoBook Atlas OS",
+        "expired_at": "20241231"
+    },
+    {
         "device_id": "b62bd493-5e4b-43c1-a9e1-b80e82a42ce6",
         "description": "Jovi Lenovo ThinkPad T490",
         "expired_at": "20241231"
