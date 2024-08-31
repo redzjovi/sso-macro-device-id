@@ -50,6 +50,11 @@
         "expired_at": "20241231"
     },
     {
+        "device_id": "d98be179-1c80-4abc-8115-2b390db3bf04",
+        "description": "Lucifel2 - 3 - VirtualBox",
+        "expired_at": "20241231"
+    },
+    {
         "device_id": "e863c4be-71bc-40b6-9800-cb4220fb4128",
         "description": "Phum",
         "expired_at": "20240930"
