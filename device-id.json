@@ -46,27 +46,17 @@
     },
     {
         "device_id": "1fe8e56b-1756-434e-8ede-89b724c7a7c8",
-        "description": "Lucifel2 - 1",
-        "expired_at": "20241231"
-    },
-    {
-        "device_id": "66f9c6ca-7bf7-4201-a769-8b28e7c73061",
-        "description": "Lucifel2 - 2",
+        "description": "Lucifel2 - 1 - PC",
         "expired_at": "20241231"
     },
     {
         "device_id": "d98be179-1c80-4abc-8115-2b390db3bf04",
-        "description": "Lucifel2 - 3 - VirtualBox",
-        "expired_at": "20241231"
-    },
-    {
-        "device_id": "c04f7b71-da7c-4578-8117-18d69f314aa1",
-        "description": "Lucifel2 - 4 - VirtualBox",
+        "description": "Lucifel2 - 2 - PC - VirtualBox",
         "expired_at": "20241231"
     },
     {
         "device_id": "ac23fab7-bc1a-4a60-8d4c-0316fc704830",
-        "description": "Lucifel2 - 5",
+        "description": "Lucifel2 - 3 - Laptop VivoBook",
         "expired_at": "20241231"
     },
     {
