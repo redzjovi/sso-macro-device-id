@@ -1,17 +1,12 @@
 [
     {
-        "device_id": "2d6e254d-68e7-4f5d-aa2c-374f5ad3e10d",
-        "description": "Jovi Asus ExpertBook",
+        "device_id": "b62bd493-5e4b-43c1-a9e1-b80e82a42ce6",
+        "description": "Jovi Lenovo ThinkPad T490",
         "expired_at": "20241231"
     },
     {
-        "device_id": "57941cee-fe56-4bbf-b120-f5e543bcdb11",
-        "description": "Jovi Asus ExpertBook Atlas OS",
-        "expired_at": "20241231"
-    },
-    {
-        "device_id": "8ad0cd5b-cba2-43b3-a5f3-5e5776146eaf",
-        "description": "Jovi Asus VivoBook",
+        "device_id": "3c2dbee3-1f96-49bd-a16d-7fbc040a984e",
+        "description": "Jovi Huawei MateBook Atlas OS",
         "expired_at": "20241231"
     },
     {
@@ -20,28 +15,13 @@
         "expired_at": "20241231"
     },
     {
-        "device_id": "b62bd493-5e4b-43c1-a9e1-b80e82a42ce6",
-        "description": "Jovi Lenovo ThinkPad T490",
+        "device_id": "57941cee-fe56-4bbf-b120-f5e543bcdb11",
+        "description": "Jovi Asus ExpertBook Atlas OS",
         "expired_at": "20241231"
     },
     {
         "device_id": "2e03c77c-67f2-41e1-97dd-a59f0fa01d0e",
-        "description": "Jovi Lenovo ThinkPad T490 - 2",
-        "expired_at": "20241231"
-    },
-    {
-        "device_id": "1f213703-523c-43b4-9110-17b53b98ca1e",
-        "description": "VirtualBox Windows 10 Atlas",
-        "expired_at": "20241231"
-    },
-    {
-        "device_id": "0d18f808-d1e0-476f-b9bd-552582adc98e",
-        "description": "Erlina Huawei MateBook",
-        "expired_at": "20241231"
-    },
-    {
-        "device_id": "3c2dbee3-1f96-49bd-a16d-7fbc040a984e",
-        "description": "Erlina Huawei MateBook Atlas OS",
+        "description": "Erlina Lenovo ThinkPad T490",
         "expired_at": "20241231"
     },
     {
