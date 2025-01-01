@@ -2,42 +2,42 @@
     {
         "device_id": "b62bd493-5e4b-43c1-a9e1-b80e82a42ce6",
         "description": "Jovi Lenovo ThinkPad T490",
-        "expired_at": "20241231"
+        "expired_at": "20251231"
     },
     {
         "device_id": "3c2dbee3-1f96-49bd-a16d-7fbc040a984e",
         "description": "Jovi Huawei MateBook Atlas OS",
-        "expired_at": "20241231"
+        "expired_at": "20251231"
     },
     {
         "device_id": "98c2e173-0d36-4ade-ae0e-12428c9f055f",
         "description": "Jovi Asus VivoBook Atlas OS",
-        "expired_at": "20241231"
+        "expired_at": "20251231"
     },
     {
         "device_id": "57941cee-fe56-4bbf-b120-f5e543bcdb11",
         "description": "Jovi Asus ExpertBook Atlas OS",
-        "expired_at": "20241231"
+        "expired_at": "20251231"
     },
     {
         "device_id": "2e03c77c-67f2-41e1-97dd-a59f0fa01d0e",
         "description": "Erlina Lenovo ThinkPad T490",
-        "expired_at": "20241231"
+        "expired_at": "20251231"
     },
     {
         "device_id": "1fe8e56b-1756-434e-8ede-89b724c7a7c8",
         "description": "Lucifel2 - 1 - PC",
-        "expired_at": "20241231"
+        "expired_at": "20251231"
     },
     {
         "device_id": "d98be179-1c80-4abc-8115-2b390db3bf04",
         "description": "Lucifel2 - 2 - PC - VirtualBox",
-        "expired_at": "20241231"
+        "expired_at": "20251231"
     },
     {
         "device_id": "ac23fab7-bc1a-4a60-8d4c-0316fc704830",
         "description": "Lucifel2 - 3 - Laptop VivoBook",
-        "expired_at": "20241231"
+        "expired_at": "20251231"
     },
     {
         "device_id": "e863c4be-71bc-40b6-9800-cb4220fb4128",
@@ -57,6 +57,6 @@
     {
         "device_id": "1c90ac40-fb45-4c57-8759-de17d7677f29",
         "description": "pancetta",
-        "expired_at": "20241231"
+        "expired_at": "20251231"
     }
 ]
